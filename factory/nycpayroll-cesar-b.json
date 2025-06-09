@@ -1,0 +1,9 @@
+{
+	"name": "nycpayroll-cesar-b",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "07cd2c3d-5feb-4cf4-89ce-99df3b60449e",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
